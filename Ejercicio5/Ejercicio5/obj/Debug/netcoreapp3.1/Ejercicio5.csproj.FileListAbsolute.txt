@@ -1,0 +1,13 @@
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.exe
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.deps.json
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.json
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.runtimeconfig.dev.json
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\bin\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csprojAssemblyReference.cache
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfoInputs.cache
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.AssemblyInfo.cs
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.dll
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.pdb
+C:\Users\OMEN\Documents\Exa_Progra\Ejercicio5\Ejercicio5\obj\Debug\netcoreapp3.1\Ejercicio5.genruntimeconfig.cache
