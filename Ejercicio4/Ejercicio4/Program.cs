@@ -6,21 +6,22 @@ namespace Ejercicio4
     {
         static void Main(string[] args)
         {
-            Cifrar();
+            string cadena = "", cadenaCifrada = "";
+            Cifrar(cadena, cadenaCifrada);
         }
 
-        static void Cifrar()
+        static void Cifrar(string cadena, string cadenaCifrada)
         {
             Console.WriteLine("Ingrese el valor de posiciones a desplazar");
             int desplazamineto = int.Parse(Console.ReadLine());
             Console.WriteLine("Ingrese la cadena a cifrar");
-            string cadena = Console.ReadLine();
-            byte[] asciiBytes = System.Text.Encoding.ASCII.GetBytes(cadena);
-            foreach (var item in asciiBytes)
+            cadena = Console.ReadLine();
+            foreach (var item in cadena)
             {
-                Console.WriteLine(item);
+                cadenaCifrada += (char)(item + desplazamineto);
             }
-            
+            Console.Clear();
+            Console.WriteLine("Cadena original: {0}\nCadena cifrada: {1}", cadena, cadenaCifrada);
         }
     }
 }
