@@ -25,7 +25,7 @@ namespace Ejercicio5
                                     //por ejemplo si se tiene un caracter " ", es decir char(32)
                                     //y se prueba descifrar con un desplazamiento de 1, quedaria char(31)
                                     //por ende, se debe de llevar de nuevo al final del limite, el caracter "~", char (126)
-                    cadenaDesencriptada += (char)valor;
+                    cadenaDesencriptada += (char)valor;//Se va juntando la cadena
                 }
                 Console.WriteLine("Opcion con {0} desplazamientos: {1}", i + 1, cadenaDesencriptada);//se despliega la posible solucion de desencriptado
             }
