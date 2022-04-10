@@ -9,7 +9,6 @@ namespace Ejercicio4
             string cadena = "", cadenaCifrada = "";
             Cifrar(cadena, cadenaCifrada);
         }
-
         static void Cifrar(string cadena, string cadenaCifrada)
         {
             Console.WriteLine("Ingrese el valor de posiciones a desplazar");
